@@ -38,7 +38,7 @@ class Solution {
                 tarTrie=tarTrie.child[(int)(t[j]-'a')];
                 //if we do not have any source or target then there is no point of getting further
                 if(souTrie==null || tarTrie == null) {break inner;}
-                if(souTrie.val!=-1 && tarTrie.val!=-1 & adj[souTrie.val][tarTrie.val] != Integer.MAX_VALUE){
+                if(souTrie.val!=-1 && tarTrie.val!=-1 && adj[souTrie.val][tarTrie.val] != Integer.MAX_VALUE){
                     dp[j+1]=Math.min(dp[j+1],adj[souTrie.val][tarTrie.val]+dp[i]);
                 }
             }
