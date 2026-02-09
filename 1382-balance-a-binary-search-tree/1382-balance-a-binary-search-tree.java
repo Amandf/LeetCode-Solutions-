@@ -14,32 +14,26 @@
  * }
  */
 class Solution {
-    public void inorder(TreeNode root, ArrayList<Integer> list) {
-        if (root == null) {
-            return;
-        }
-
-        inorder(root.left, list);
-        list.add(root.val);
-        inorder(root.right, list);
-    }
+    List<Integer> list = new ArrayList<>();
     public TreeNode balanceBST(TreeNode root) {
-     ArrayList<Integer> list = new ArrayList<>();
-
-     inorder(root, list);
-     return BSTMaker(list, 0, list.size()-1);   
+        inorder(root);
+        return createBalancedBST(0, list.size()-1);
+    }
+    void inorder(TreeNode root) {
+        if(root == null)
+          return;
+        inorder(root.left);
+        list.add(root.val);
+        inorder(root.right);  
     }
 
-    public TreeNode BSTMaker(ArrayList<Integer> list, int start, int end) {
-        if (start > end) {
-            return null;
-        }
-        int mid = (start + end) / 2;
-        TreeNode root = new TreeNode(list.get(mid));
-
-        root.left = BSTMaker(list, start, mid - 1);
-        root.right = BSTMaker(list, mid + 1, end);
-
-        return root;
+    TreeNode createBalancedBST(int start, int end) {
+        if(start > end)
+           return null;
+        int mid = start + (end-start)/2;
+        TreeNode left = createBalancedBST(start, mid-1);
+        TreeNode right = createBalancedBST(mid+1, end);
+        TreeNode root = new TreeNode(list.get(mid), left, right);
+        return root;   
     }
 }
