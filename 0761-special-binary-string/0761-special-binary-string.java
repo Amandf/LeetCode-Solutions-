@@ -9,18 +9,19 @@ class Solution {
             if(s.charAt(i) == '1') count++;
             else count--;
 
-            if(count == 0){
+            if(count == 0) {
                 String inner = makeLargestSpecial(s.substring(start + 1, i));
                 list.add("1" + inner + "0");
                 start = i + 1;
             }
         }
-        collections.sort(list, collections.reverseOrder());
 
+        Collections.sort(list, Collections.reverseOrder());
+        
         StringBuilder result = new StringBuilder();
-        for(String str : list) {
+        for (String str : list) {
             result.append(str);
         }
-        return result.toString();
+        return result.tostring();
     }
 }
