@@ -1,13 +1,13 @@
 class Solution {
     public int countPrimeSetBits(int left, int right) {
-        HashSet<Integer> hset = new HashSet<>(
+        HashSet<Integer> hst = new HashSet<>(
             Arrays.asList(2,3,5,7,11,13,17,19,31)
         );
         int ans = 0;
         for(int i = left; i <= right; i++) {
             int setbits = Integer.bitCount(i);
-            if(hset.contains(setbits))
-            ans++;
+            if(hst.contains(setbits))
+              ans++;
         }
         return ans;
     }
