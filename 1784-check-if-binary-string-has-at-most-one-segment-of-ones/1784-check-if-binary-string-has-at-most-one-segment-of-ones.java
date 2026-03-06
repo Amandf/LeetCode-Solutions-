@@ -1,11 +1,12 @@
 class Solution {
     public boolean checkOnesSegment(String s) {
-        int i=0, n = s.length();
-        
+        int i=0, n=s.length();
+
         while(i<n && s.charAt(i)=='1')
-            i++;
+          i++;
         while(i<n && s.charAt(i)=='0')
-            i++;
-        return i>=n ? true : false;
+          i++;
+
+        return i>=n ? true : false;  
     }
 }
