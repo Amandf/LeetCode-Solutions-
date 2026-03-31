@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +147,8 @@ This repository contains my solutions to LeetCode problems(Java)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
