@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems(Java)
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Amandf/LeetCode-Solutions-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -62,6 +63,7 @@ This repository contains my solutions to LeetCode problems(Java)
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Amandf/LeetCode-Solutions-/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2751-robot-collisions](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2751-robot-collisions/) | Hard |
 ## Dynamic Programming
