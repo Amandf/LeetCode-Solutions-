@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [0874-walking-robot-simulation](https://github.com/Amandf/LeetCode-Solutions-/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2751-robot-collisions](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2751-robot-collisions/) | Hard |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +165,8 @@ This repository contains my solutions to LeetCode problems(Java)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2751-robot-collisions/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
