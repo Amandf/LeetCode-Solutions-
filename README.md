@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [3643-flip-square-submatrix-vertically](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [0874-walking-robot-simulation](https://github.com/Amandf/LeetCode-Solutions-/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
