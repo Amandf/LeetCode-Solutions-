@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -60,6 +61,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
