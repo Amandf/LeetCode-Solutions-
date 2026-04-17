@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [1980-find-unique-binary-string](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [1622-fancy-sequence](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
