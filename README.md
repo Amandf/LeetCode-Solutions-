@@ -141,6 +141,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
