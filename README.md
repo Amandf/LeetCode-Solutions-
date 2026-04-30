@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ This repository contains my solutions to LeetCode problems(Java)
 | [2463-minimum-total-distance-traveled](https://github.com/Amandf/LeetCode-Solutions-/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
