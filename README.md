@@ -84,6 +84,7 @@ This repository contains my solutions to LeetCode problems(Java)
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0788-rotated-digits](https://github.com/Amandf/LeetCode-Solutions-/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -143,6 +144,7 @@ This repository contains my solutions to LeetCode problems(Java)
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0788-rotated-digits](https://github.com/Amandf/LeetCode-Solutions-/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
