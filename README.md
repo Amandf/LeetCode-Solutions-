@@ -137,6 +137,7 @@ This repository contains my solutions to LeetCode problems(Java)
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -198,8 +199,10 @@ This repository contains my solutions to LeetCode problems(Java)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandf/LeetCode-Solutions-/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Amandf/LeetCode-Solutions-/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
